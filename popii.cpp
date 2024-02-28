@@ -10,4 +10,5 @@ int main()
     c = a + b;
     cout << "a+b=" << c;
     //pipka
+    ///lopol
 }
