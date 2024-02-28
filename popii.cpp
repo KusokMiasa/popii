@@ -9,4 +9,5 @@ int main()
     cin >> b;
     c = a + b;
     cout << "a+b=" << c;
+    //pipka
 }
